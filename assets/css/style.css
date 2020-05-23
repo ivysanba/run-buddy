@@ -1,0 +1,66 @@
+/* remove built-in margin and padding */
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/* style for the body, affects the whole web page */
+
+body {
+    font-family: Helvetica, Arial, sans-serif;
+    color: #39a6b2;
+  }
+
+/* style for the header */
+header{
+  padding: 20px 35px;
+  background-color: #39a6b2;
+}
+
+/* style for the header nav element */
+header nav {
+  float: right;
+  margin: 7px  0;
+}
+
+/* style for header h1 */
+header h1{
+  font-weight: bold;
+  font-size: 36px;
+  color: #fce138;
+  margin: 0;
+  display: inline;
+}
+
+/* style for the header a */
+header a {
+  text-decoration: none;
+  color: #fce138;
+}
+
+/* style for unordered list on the header */
+header ul{
+  color:  #39a6b2 !important;
+}
+
+/* elements of list taking only the space that they need */
+header nav ul li {
+  display: inline;
+}
+
+/* a elements of list taking only the space that they need */
+header nav ul li a {
+  margin: 0 30px;
+  font-weight: lighter;
+  font-size: 22px;
+}
+
+/* style for h1 */
+h1 {
+  font-size: 100px;
+}
+
+/* style for h2 */
+h2{
+    
+}
