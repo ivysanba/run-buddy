@@ -2,6 +2,7 @@
 * {
   margin: 0;
   padding: 0;
+  box-sizing: border-box;
 }
 
 /* style for the body, affects the whole web page */
@@ -63,4 +64,32 @@ h1 {
 /* style for h2 */
 h2{
     
+}
+
+
+/* style for the footer */
+footer {
+  background: #fce138;
+  width: 100%;
+  padding: 40px 35px;
+}
+
+/* style for the footer h2 element */
+footer h2 {
+  display: inline; 
+  color: #024e76;
+  font-size: 30px;
+  margin: 0;;
+}
+
+/* style for the footer h2 element */
+footer div {
+  float: right;
+  line-height: 1.5;
+  text-align: right;
+}
+
+/* style for the footer a element */
+footer a {
+  color: #024e76;
 }
