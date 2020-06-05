@@ -282,3 +282,30 @@ section{
 }
 
 /*  "meet the trainers" section end*/
+
+/* reach out section */
+.contact{
+  text-align: center;
+  background: #024e76;
+}
+
+.secondary-border{
+  color: #fce138;
+  text-align: center;
+  margin-bottom: teal;
+}
+
+.section-title {
+  font-size: 55px;
+  display: inline-block;
+  padding: 0 100px 20px 100px;
+  border-bottom: 3px solid;
+  margin-bottom: 35px;
+  color: #024e76;
+}
+
+.contact h2 {
+  color: #fce138;
+}
+
+/* reach out section */
